@@ -1,7 +1,13 @@
 {
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "node-fetch": "^2.2.0",
     "puppeteer": "^1.6.1",
     "ynab": "^1.5.0"
+  },
+
+  "engines": {
+    "node": "8.11.3"
   }
 }
